@@ -1,0 +1,53 @@
+body {
+    background: yellow;
+}
+
+main {margin: 5% 15%;
+    background: white;
+    /* width: 60%; */
+    /* margin: auto; */
+}
+
+h1 {
+    margin: 20px;
+    padding: 20px;
+}
+
+ p {
+    margin-left: 5%;
+} 
+
+h2 {
+    margin: 10px;
+    padding: 10px;
+}
+
+h3 {
+    margin: 10px;
+    padding: 10px;
+}
+
+ h1,
+h2,
+h3 {
+    margin-left: 5%;
+}
+
+figure {
+    position: relative;
+    left: 47%;
+    top: 42px;
+}
+
+span.rouge{color: red;}
+span.vert{color: green;}
+span.bleu{color: blue;}
+
+table.toto{;
+margin-left: 5%;
+border: 1px solid black;}
+
+table.toto :nth-child(1) td{
+border: 1px solid black;}
+
+table.tata{border: 1px solid black;}
